@@ -1,0 +1,12 @@
+br\com\bitewisebytes\simpletwittersecurity\user\RoleDTO.class
+br\com\bitewisebytes\simpletwittersecurity\SimpleTwitterApplication.class
+br\com\bitewisebytes\simpletwittersecurity\twittter\TweetService.class
+br\com\bitewisebytes\simpletwittersecurity\user\RoleReppository.class
+br\com\bitewisebytes\simpletwittersecurity\user\UserReppository.class
+br\com\bitewisebytes\simpletwittersecurity\user\UserDTO.class
+br\com\bitewisebytes\simpletwittersecurity\user\Role.class
+br\com\bitewisebytes\simpletwittersecurity\user\User.class
+br\com\bitewisebytes\simpletwittersecurity\twittter\TweetDTO.class
+br\com\bitewisebytes\simpletwittersecurity\twittter\TweetReppository.class
+br\com\bitewisebytes\simpletwittersecurity\user\Role$Values.class
+br\com\bitewisebytes\simpletwittersecurity\twittter\Tweet.class
